@@ -1,5 +1,5 @@
 # pyopenweathermap
-OpenWeatherMap example using pyowm
+havaDurumu_py example using pyowm
 
 You need to get a valid API KEY from OpenWeatherMap
 
